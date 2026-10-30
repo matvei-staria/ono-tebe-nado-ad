@@ -5,5 +5,6 @@
 [Репозиторий проекта](https://github.com/matvei-staria/ono-tebe-nado-ad)
 
 
-https://github.com/matvei-staria/ono-tebe-nado
+https://github.com/matvei-staria/ono-tebe-nado-ad
+
 
