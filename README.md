@@ -3,3 +3,7 @@
 Учебный проект: страница аукциона вещей, в которые никто не верил. Вёрстка выполнена на HTML и CSS.
 
 [Репозиторий проекта](https://github.com/matvei-staria/ono-tebe-nado-ad)
+
+
+https://github.com/matvei-staria/ono-tebe-nado
+
